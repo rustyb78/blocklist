@@ -12,3 +12,13 @@
 # Personal Block List
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 www.bradleysheriff.com
+0.0.0.0 wpad.sheriff_domain.com
+0.0.0.0 4ce7442z90.sheriff_domain.com	
+0.0.0.0 sheriff_pdc1.sheriff_domain.com	
+0.0.0.0 _ldap._tcp.sheriff_domain.com	
+0.0.0.0 _ldap._tcp.default-first-site-name._sites.sheriff_domain.com	
+0.0.0.0 _ldap._tcp.b11b4c96-6167-4391-973b-1277b4208a00.domains._msdcs.sheriff_domain.com	
+0.0.0.0 _ldap._tcp.default-first-site-name._sites.dc._msdcs.sheriff_domain.com	
+172.217.10.202	
+0.0.0.0 fs2.sheriff_domain.com	
+0.0.0.0 www.google-analytics.com
